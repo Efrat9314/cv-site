@@ -1,0 +1,12 @@
+C:\Users\user1\Desktop\לימודים\שנה ג\פרקטיקוד\cvSite\Servieces\bin\Debug\net7.0\Servieces.deps.json
+C:\Users\user1\Desktop\לימודים\שנה ג\פרקטיקוד\cvSite\Servieces\bin\Debug\net7.0\Servieces.dll
+C:\Users\user1\Desktop\לימודים\שנה ג\פרקטיקוד\cvSite\Servieces\bin\Debug\net7.0\Servieces.pdb
+C:\Users\user1\Desktop\לימודים\שנה ג\פרקטיקוד\cvSite\Servieces\obj\Debug\net7.0\Servieces.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\לימודים\שנה ג\פרקטיקוד\cvSite\Servieces\obj\Debug\net7.0\Servieces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\לימודים\שנה ג\פרקטיקוד\cvSite\Servieces\obj\Debug\net7.0\Servieces.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\לימודים\שנה ג\פרקטיקוד\cvSite\Servieces\obj\Debug\net7.0\Servieces.AssemblyInfo.cs
+C:\Users\user1\Desktop\לימודים\שנה ג\פרקטיקוד\cvSite\Servieces\obj\Debug\net7.0\Servieces.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\לימודים\שנה ג\פרקטיקוד\cvSite\Servieces\obj\Debug\net7.0\Servieces.dll
+C:\Users\user1\Desktop\לימודים\שנה ג\פרקטיקוד\cvSite\Servieces\obj\Debug\net7.0\refint\Servieces.dll
+C:\Users\user1\Desktop\לימודים\שנה ג\פרקטיקוד\cvSite\Servieces\obj\Debug\net7.0\Servieces.pdb
+C:\Users\user1\Desktop\לימודים\שנה ג\פרקטיקוד\cvSite\Servieces\obj\Debug\net7.0\ref\Servieces.dll
